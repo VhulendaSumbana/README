@@ -1,2 +1,1 @@
-# README
-basic of GitHub
+This file is empty, Please add a file with contents.
